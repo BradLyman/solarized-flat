@@ -1,0 +1,17 @@
+{
+  "name": "solarized-flat",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": ">=1.0"
+  },
+  "publisher": "Bradley Lyman",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized Flat",
+        "uiTheme": "vs-dark",
+        "path": "dark.tmTheme"
+      }
+    ]
+  }
+}
